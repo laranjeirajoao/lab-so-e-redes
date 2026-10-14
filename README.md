@@ -16,3 +16,7 @@ Página inicial do repositório com os links para as atividades da disciplina.
 - [Relatório Aula 5](./aula%205/RelatorioAula5.md)
 - [Aula 6](./aula%206/Aula6.md)
 - [Relatório Aula 6](./aula%206/RelatorioAula6.md)
+- [Aula 7](./aula%207/Aula7.md)
+- [Relatório Aula 7](./aula%207/RelatorioAula7.md)
+- [Aula 8](./aula%208/Aula8.md)
+- [Relatório Aula 8](./aula%208/RelatorioAula8.md)
